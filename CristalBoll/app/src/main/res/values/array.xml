@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aPrediction">
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Попробуйте позже</item>
+        <item>Обязательно</item>
+        <item>Лушче не стоит</item>
+        <item>Ответ отрицательный</item>
+        <item>Ответ положительный</item>
+    </string-array>
+</resources>
